@@ -10,4 +10,4 @@ Steps to create :
 
 2. Might face an issue with the fololwowing error while giving npm start - Cannot find module 'webpack-cli/bin/config-yargs'
 
-3. To eradicate the above error if faced run the following commmand in terminal -  npm install webpack-cli(or maybe try to update webpack-dev-server if the former command doesnmt solve the issue).
+3. To eradicate the above error if faced run the following commmand in terminal -  npm install webpack-cli(or maybe try to update webpack-dev-server if the former command doesnt solve the issue).
