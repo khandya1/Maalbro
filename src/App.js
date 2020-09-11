@@ -1,4 +1,5 @@
 import React from 'react';
+import { Button } from 'react-bootstrap';
 
 const App = () => {
     return (
@@ -6,7 +7,7 @@ const App = () => {
             <h1> This is the official site of maalbro. </h1>
             <div>
                 <p> I do nothing </p>
-                <button> Do not click </button>
+                <Button variant="success">Primary</Button>
             </div>
         </div>
     );
